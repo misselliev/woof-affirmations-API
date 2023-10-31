@@ -21,7 +21,7 @@ Powered by coffee:coffee: and barks :dog:.
 
 ## ✨ Live Demo
 
-You can get an affirmation [here.](https://dulce-affirmations-api-39977e6214e6.herokuapp.com/api/affirmation)
+You can get an affirmation [here.](https://woof-affirmations-api.vercel.app/api/affirmation)
 
 ## Author
 
